@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6289ad34a168ded4eb13ff4f2af99637
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SunDirectionalLight: {instanceID: 0}
+  - Preset: {fileID: 11400000, guid: b6048910e4c7f0044973582ca86c9f61, type: 2}
+  - skyboxMat: {fileID: 2100000, guid: 133347283e115d147a5fcce7f47a538f, type: 2}
+  - MoonDirectionalLight: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
