@@ -6,6 +6,8 @@ An endless lane-switching runner built to learn Unity and game development workf
 
 Traffic Runner is a 3D endless runner set in a lively city environment where traffic never stops.
 
+**Download the game:** [Traffic Runner on itch.io](https://venom7784.itch.io/traffic-runner) – get the build and play!
+
 Cars rush toward you as you sprint forward, and your objective is simple:
 
 - Switch lanes.
