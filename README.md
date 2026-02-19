@@ -59,11 +59,11 @@ While the game is not heavily polished, it represents an important milestone in 
 
 _Snapshots from the `Game_Screenshots` folder in the repo._
 
-![Gameplay Screenshot](Game_Screenshots/Screenshot 2026-02-19 200555.png)
+![Gameplay Screenshot](Game_Screenshots/screenshot1.png)
 
-![Gameplay Screenshot](Game_Screenshots/Screenshot 2026-02-19 200607.png)
+![Gameplay Screenshot](Game_Screenshots/screenshot2.png)
 
-![Gameplay Screenshot](Game_Screenshots/Screenshot 2026-02-19 200634.png)
+![Gameplay Screenshot](Game_Screenshots/screenshot3.png)
 
 ## Built With
 
